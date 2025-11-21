@@ -1,0 +1,5 @@
+# 本地开发环境变量示例
+# 复制此文件为 .dev.vars 并填入实际的密钥
+
+ADMIN_SECRET_KEY=your-admin-secret-key-here
+API_SECRET_KEY=your-api-secret-key-here
